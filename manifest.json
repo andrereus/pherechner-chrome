@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Phe Rechner",
-  "version": "3.2.5",
+  "version": "4.0.0",
   "description": "PKU App, die Taschenrechner, Bleistift, Papier und Nährwerttabellen kombiniert.",
   "offline_enabled": false,
   "icons": {
